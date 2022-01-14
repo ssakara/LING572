@@ -1,0 +1,18 @@
+Example data point:
+{'text': ['After', '7', 'years', 'of', 'watching', 'that', 'dreadful', 'nonsense', 'called', 'Star', 'Trek', 'Voyager', 'I', 'was', 'feeling', 'pretty', 'numb.', 'Next', 'Gen', 'and', 'DS9', 'were', 'bloody', 'good', 'stuff', 'and', 'Voyager', 'ruined', 'TV', 'Trek.', 'This', 'opened', 'with', 'probably', 'the', 'best', 'pilot', 'to', 'a', 'Trek', 'show.', 'The', 'crew', 'were', 'really', 'good', 'as', 'were', 'the', 'choice', 'of', 'actors', 'for', 'the', 'parts.', 'Scott', 'Bakula', 'played', 'a', 'typical', 'first', 'time', 'captain', 'in', 'deep', 'space', 'and', 'his', 'unpolished', 'way', 'of', 'doing', 'things', 'was', 'a', 'refreshing', 'change', 'to', 'the', 'already', 'know', 'everything', 'captains', 'from', 'before.', 'The', 'rest', 'of', 'the', 'crew', 'were', 'really', 'likable', 'in', 'their', 'roles', 'and', 'I', 'think', 'they', 'got', 'off', 'to', 'a', 'good', 'first', 'season.', 'When', 'the', 'show', 'was', 'prematurely', 'canceled', 'I', 'was', 'really', 'disappointed.', 'In', 'A', 'Mirror', 'Darkly', 'showed', 'us', 'what', 'the', 'cast', 'were', 'capable', 'of.', 'Pity', 'a', 'film', 'or', 'TV', 'movie', 'was', 'never', 'considered.', 'So', 'much', 'back', 'story', 'and', 'founding', 'of', 'the', 'federation', 'left', 'to', 'tell,', 'including', 'the', 'onset', 'of', 'hostilities', 'with', 'the', 'Klingons..........'], 'label': 'pos'}
+
+Epoch 	 Train loss 	 Dev loss 
+----------------------------------------
+0 	 0.61634 	 0.55047
+1 	 0.47888 	 0.44735
+2 	 0.41480 	 0.40235
+3 	 0.36737 	 0.36708
+4 	 0.33170 	 0.38633
+5 	 0.30369 	 0.35311
+6 	 0.27000 	 0.32964
+7 	 0.25154 	 0.32151
+8 	 0.22056 	 0.37461
+Evaluating best model (from epoch 7) on test set.
+test loss: 0.33436680773792365
+test accuracy: 0.8574648337900791
+total time: 748.5894059371203

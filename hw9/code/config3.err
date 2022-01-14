@@ -1,0 +1,17 @@
+Traceback (most recent call last):
+  File "hw9_script.py", line 7, in <module>
+    import newsgroup_loader
+  File "/home2/karamali/572/hw9/code/newsgroup_loader.py", line 9, in <module>
+    from sklearn.datasets import fetch_20newsgroups
+  File "/usr/lib64/python2.7/site-packages/sklearn/__init__.py", line 134, in <module>
+    from .base import clone
+  File "/usr/lib64/python2.7/site-packages/sklearn/base.py", line 13, in <module>
+    from .utils.fixes import signature
+  File "/usr/lib64/python2.7/site-packages/sklearn/utils/__init__.py", line 10, in <module>
+    from .murmurhash import murmurhash3_32
+  File "__init__.pxd", line 885, in init sklearn.utils.murmurhash
+ValueError: numpy.ufunc has the wrong size, try recompiling. Expected 176, got 192
+
+real	0m4.486s
+user	0m0.173s
+sys	0m0.144s

@@ -1,0 +1,8 @@
+israel&kolker 3 talk.politics.guns 0.6666666666666666 talk.politics.mideast 0.0 talk.politics.misc 0.3333333333333333
+israel&!kolker 347 talk.politics.guns 0.005763688760806916 talk.politics.mideast 0.9423631123919308 talk.politics.misc 0.05187319884726225
+!israel&turkish&arromdee 15 talk.politics.guns 0.0 talk.politics.mideast 0.6 talk.politics.misc 0.4
+!israel&turkish&!arromdee 174 talk.politics.guns 0.0 talk.politics.mideast 0.9885057471264368 talk.politics.misc 0.011494252873563218
+!israel&!turkish&gun&homeland 3 talk.politics.guns 0.0 talk.politics.mideast 1.0 talk.politics.misc 0.0
+!israel&!turkish&gun&!homeland 343 talk.politics.guns 0.8542274052478134 talk.politics.mideast 0.0 talk.politics.misc 0.1457725947521866
+!israel&!turkish&!gun&fbi 271 talk.politics.guns 0.6605166051660517 talk.politics.mideast 0.014760147601476014 talk.politics.misc 0.3247232472324723
+!israel&!turkish&!gun&!fbi 1544 talk.politics.guns 0.27461139896373055 talk.politics.mideast 0.24935233160621761 talk.politics.misc 0.47603626943005184
